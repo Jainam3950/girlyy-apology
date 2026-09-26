@@ -166,7 +166,8 @@ body {
 
     margin-bottom: 20px;
 }
-
+display: inline-block;
+text-decoration: none;
 
 h1,
 h2 {
